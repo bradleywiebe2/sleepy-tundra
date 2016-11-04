@@ -1,0 +1,16 @@
+{
+  "galaxy.meteor.com": {
+     "env": {
+       "ROOT_URL": "http://somnium.meteorapp.com",
+       "MONGO_URL": "mongodb://somniumtech3:[Fartfart44!]!@ds059215.mlab.com:59215/somniumdb"
+     }
+   },
+  "MAIL_URL": "",
+  "reaction": {
+    "REACTION_USER": "admin",
+    "REACTION_AUTH": "Fartfart44!",
+    "REACTION_EMAIL": "brad@websitewrench.co"
+  },
+  "isDebug": "info",
+  "public": {}
+}
