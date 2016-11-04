@@ -11,6 +11,12 @@
 *.sublime-project
 *.sublime-workspace
 
+.meteor
+.reaction
+
+settings.json
+settings/dev.settings.json
+
 jsdoc.json
 lib-cov
 logs
