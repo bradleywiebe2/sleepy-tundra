@@ -1,22 +1,22 @@
 {
-  "name": "reaction",
-  "description": "Reaction is a modern reactive, real-time event driven ecommerce platform.",
+  "name": "somnium",
+  "description": "Somnium is a German custom mattress app built on a modern reactive, real-time event driven ecommerce platform.",
   "version": "0.17.1",
   "main": "main.js",
   "directories": {
     "test": "tests"
   },
-  "homepage": "https://github.com/reactioncommerce/reaction",
-  "url": "https://github.com/reactioncommerce/reaction",
-  "email": "reaction@reactioncommerce.com",
+  "homepage": "https://somniumbeds.com",
+  "url": "https://somniumbeds.com",
+  "email": "hello@somniumbeds.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactioncommerce/reaction.git"
+    "url": "https://github.com/bradleywiebe2/sleepy-tundra.git"
   },
-  "author": "Reaction Commerce <hello@reactioncommerce.com>",
+  "author": "Bradley Wiebe <brad@websitewrench.co>",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/reactioncommerce/reaction/issues"
+    "url": "https://github.com/bradleywiebe2/sleepy-tundra/issues"
   },
   "dependencies": {
     "@reactioncommerce/authorize-net": "^1.0.7",
